@@ -6,7 +6,7 @@ description = "The full http://kaomoji.ru database, encoded and escaped as byte 
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/StratusFearMe21/kaomoji-ru"
-keywords = ["kaomoji", "japanese", "emoji", "uwu", "owo", "anime"]
+keywords = ["kaomoji", "japanese", "uwu", "owo", "anime"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
